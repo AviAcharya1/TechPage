@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#about, #location, #register {
+    margin-top: 50px;
+}
+
+#map {
+    border: 1px solid #ccc;
+}
+
+nav {
+    margin-bottom: 20px;
+}
